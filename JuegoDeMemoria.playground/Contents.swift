@@ -16,7 +16,7 @@ for i in (0...100)
     {
         print("\(i)\t impar!!!")
     }
-    if (i>30 && i<40)
+    if (i>=30 && i<=40)
     {
         print("\(i)\t viva swift!!!")
     }
